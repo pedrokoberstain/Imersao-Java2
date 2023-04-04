@@ -23,3 +23,5 @@ Aula 5 - Publicando nossa API na Cloud
 ### Aula 02 -> Gerador de figurinhas
 
 - [x] Dia 02:
+Gerando figurinhas para o whatsapp com as recomendação do filme. Segue o resultado.
+
